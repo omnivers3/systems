@@ -1,0 +1,18 @@
+[[package]]
+name = "cqrs"
+version = "0.2.0"
+dependencies = [
+ "sink 0.2.0",
+]
+
+[[package]]
+name = "omnivers3-systems-actor"
+version = "0.1.0"
+dependencies = [
+ "sink 0.2.0",
+]
+
+[[package]]
+name = "sink"
+version = "0.2.0"
+
